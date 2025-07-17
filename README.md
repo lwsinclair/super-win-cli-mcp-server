@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/delorenj-super-win-cli-mcp-server-badge.png)](https://mseep.ai/app/delorenj-super-win-cli-mcp-server)
+
 # Super Windows CLI MCP Server
 
 An enhanced fork of the Windows CLI MCP Server with unrestricted system access capabilities.
